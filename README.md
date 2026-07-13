@@ -38,9 +38,7 @@ Transformo a sua ideia em um **site, app ou sistema**. Rápido, bonito, atrativo
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Tecnologia em Sistemas para Internet — UTFPR**
-- ⌨️ Programando desde **2022** — o que era hobby virou ofício
-- 🤝 Trabalho como **freelancer** porque gosto da parte humana: parceiro que caminha lado a lado durante todo o processo
-- 🔍 Obcecado por detalhe e por deixar as coisas simples para quem usa
+- ⌨️ Programando desde **2022** 
 - 🌎 **Português** · **Inglês** (avançado) · **Espanhol** (técnico)
 - 📍 Toledo, PR — atendo projetos de qualquer lugar
 
@@ -83,33 +81,6 @@ Transformo a sua ideia em um **site, app ou sistema**. Rápido, bonito, atrativo
 
 ---
 
-## 🚀 Projetos no ar
-
-### 🛒 Catálogo Virtual — Mariah Artigos
-Loja/catálogo pensada para vender pelo celular: página de produto com variações, preço no Pix e parcelamento, carrinho com controle de estoque e finalização de compra direto no WhatsApp.
-
-`TypeScript` · `React` · `Tailwind` · `Banco de Dados`
-
-<!-- 🔗 Adicione o link: [Ver projeto no ar](https://...) -->
-
-### 🔧 UpTech Notebook — Assistência Técnica
-Site de captação para uma assistência técnica de notebooks, com CTA direto no WhatsApp e um painel interno completo para gestão: kanban de orçamentos, financeiro e equipe, tudo num só lugar.
-
-`TypeScript` · `React` · `Next.js` · `Tailwind` · `Banco de Dados`
-
-<!-- 🔗 Adicione o link: [Ver projeto no ar](https://...) -->
-
----
-
-## 🤝 Como a gente trabalha junto — 5 passos, zero mistério
-
-**1. Conversa** — Entendemos a sua ideia e o cenário atual em uma reunião clara e direto ao ponto.
-**2. Curadoria** — Levanto as melhores soluções técnicas para o seu negócio, não as mais caras.
-**3. Proposta** — Você recebe uma proposta detalhada, com prazos claros e previsibilidade total.
-**4. Desenvolvimento** — Construo com atualização constante e espaço para o seu feedback o tempo todo.
-**5. Entrega** — Entrego, treino você a usar e continuo por perto dando suporte.
-
----
 
 ## 📊 Estatísticas do GitHub
 
